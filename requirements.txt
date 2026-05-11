@@ -1,0 +1,5 @@
+opencv-python-headless
+mediapipe
+librosa
+gradio
+numpy
